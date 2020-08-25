@@ -1,5 +1,5 @@
 ***
-![ヘッダ](header.png)
+![ヘッダ](https://media.discordapp.net/attachments/647439793038557184/747829302099312730/header.png?width=1364&height=409)
 ***
 ```json
 {
