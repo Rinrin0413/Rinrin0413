@@ -20,6 +20,6 @@
 }
 ```
 ***
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413)](https://github.com/anuraghazra/github-readme-stats)
+[![Rinrin's github stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413)](https://github.com/anuraghazra/github-readme-stats)
 ***
