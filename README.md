@@ -3,21 +3,22 @@
 ***
 ```json
 {
-  "version": "1.14.3",
+  "version": "1.15.0",
   "description": {
     "name": "Rinrin",
-    "gender": "gentleman",
-    "age": 14,
+    "gender": "Gentleman",
+    "age": 15,
     "program_language": [
       "Python",
-      "JavaScript(jQuery)",
+      "JavaScript",
+      //"hlsl",
       "HTML",
-      "CSS",
-      "GenLanguage"
+      "CSS"
+      
     ]
   },
   "other": {
-    "comment": "I am a junior high school student who is using Python. I am Japanese"
+    "comment": "LOL"
   }
 }
 ```
