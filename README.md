@@ -3,11 +3,10 @@
   "version": "1.15.0",
   "description": {
     "name": "Rinrin",
-    "gender": "Gentleman",
     "age": 15,
     "program_language": [
       "Python",
-      "JavaScript",
+      "Javascript",
       //"hlsl",
       "HTML",
       "CSS"
@@ -15,7 +14,7 @@
     ]
   },
   "other": {
-    "comment": "LOL"
+    "comment": "aa thinking:V"
   }
 }
 ```
