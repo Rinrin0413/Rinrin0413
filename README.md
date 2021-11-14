@@ -1,5 +1,5 @@
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓹𝔂໒ 
-     Hi there, I'm a 15year-old student:D
+     Hi there, I'm a 15year old student:D
 ___
 > Major activities
 * Programming
@@ -18,4 +18,7 @@ ___
 > Socials
 * Twitter : [@Rinrin_2nd](https://twitter.com/Rinrin_2nd)
 * Discord : `Rinrin.py#5671 (724976600873041940)`
+* Qiita : [Rinrin0413](https://qiita.com/Rinrin0413)
+* Xbox : `killkillkill172`
+* Spotify : [Rinrin.valley](https://open.spotify.com/user/orr3huuq7wdmws3a6tgyh50d0)
 ___
