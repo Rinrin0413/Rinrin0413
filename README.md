@@ -1,5 +1,5 @@
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓹𝔂໒ 
-     Hi there, I'm a 15year old student:D
+     Hi there, I'm a 15year-old student:D
 ___
 > Major activities
 * Programming
