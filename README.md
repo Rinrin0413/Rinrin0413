@@ -13,7 +13,7 @@ ___
 ___
 > Languages 
 
-&emsp;Python/HTML/CSS/JavaScript/HLSL
+&emsp;Python/HTML/CSS/JavaScript/HLSL/Svelte/SCSS
 ___
 > Socials
 * Twitter : [@Rinrin_2nd](https://twitter.com/Rinrin_2nd)
