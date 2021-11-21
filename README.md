@@ -1,12 +1,14 @@
-<style>
-     #langs a {
-          background-color: rgba(1.0, 1.0, 1.0, 0.5);
-          padding: 2.0em 0.7em 0.3em 0.7em;
-          transition: 0.5s;
-     }
-     #langs a:hover { border: 2px white solid; }
-     #langs a:hover::after { content: attr(alt); color: white;}
-</style>
+<head>
+          <style>
+          #langs a {
+               background-color: rgba(1.0, 1.0, 1.0, 0.5);
+               padding: 2.0em 0.7em 0.3em 0.7em;
+               transition: 0.5s;
+          }
+          #langs a:hover { border: 2px white solid; }
+          #langs a:hover::after { content: attr(alt); color: white;}
+     </style>
+</head>
 <div id="langs">
      <a href="https://www.python.org/" alt="Python"><img src="static/img/python.png" alt="Python" style="width:36px;"></a>
      <a href="https://html.spec.whatwg.org/" alt="HTML"><img src="static/img/html.png" alt="HTML" style="width:31.5px;"></a>
