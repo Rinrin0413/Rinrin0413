@@ -1,12 +1,4 @@
-<style>
-     #langs a {
-          background-color: rgba(1.0, 1.0, 1.0, 0.5);
-          padding: 2.0em 0.7em 0.3em 0.7em;
-          transition: 0.5s;
-     }
-     #langs a:hover { border: 2px white solid; }
-     #langs a:hover::after { content: attr(alt); color: white;}
-</style>
+<link href="./style.css" rel="stylesheet"></link>
 
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓹𝔂໒ 
      Hi there, I'm a 15year-old Japanese student:D
