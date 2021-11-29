@@ -26,6 +26,7 @@ ___
      <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" alt="HLSL"><img src="static/img/hlsl.png" alt="HLSL" width="36px"></a>
      <a href="https://svelte.dev/" alt="Svelte"><img src="https://svelte.jp/favicon.png" alt="Svelte" width="37.5px"></a>
      <a href="https://sass-lang.com/" alt="SCSS"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SCSS" width="43.5px"></a>
+     <a href="https://www.rust-lang.org/" alt="Rust"><img src="static/img/rust.png" alt="Rust" width="37.5px"></a>
 </div>
 
 ___
