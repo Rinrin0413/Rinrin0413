@@ -19,14 +19,14 @@ ___
 
 <div id="langs">
      &emsp;
-     <a href="https://www.python.org/" alt="Python"><img src="https://icongr.am/devicon/python-original.svg?size=33&color=currentColor" alt="Python"></a>
-     <a href="https://html.spec.whatwg.org/" alt="HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="HTML"></a>
-     <a href="https://www.w3.org/TR/CSS/#css" alt="CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="CSS"></a>
-     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" alt="JS"><img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" alt="JS"></a>
-     <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" alt="HLSL"><img src="static/img/hlsl.png" alt="HLSL" width="36px"></a>
-     <a href="https://svelte.dev/" alt="Svelte"><img src="https://svelte.jp/favicon.png" alt="Svelte" width="37.5px"></a>
-     <a href="https://sass-lang.com/" alt="SCSS"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SCSS" width="43.5px"></a>
-     <a href="https://www.rust-lang.org/" alt="Rust"><img src="static/img/rust.png" alt="Rust" width="37.5px"></a>
+     <a href="https://www.python.org/" alt="Python"><img src="https://icongr.am/devicon/python-original.svg?size=33&color=currentColor" alt="Python" title="Python"></a>
+     <a href="https://html.spec.whatwg.org/" alt="HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="HTML" title="HTML"></a>
+     <a href="https://www.w3.org/TR/CSS/#css" alt="CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="CSS" title="CSS"></a>
+     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" alt="JS"><img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" alt="JS" title="JavaScript"></a>
+     <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" alt="HLSL"><img src="static/img/hlsl.png" alt="HLSL" title="HLSL" width="36px"></a>
+     <a href="https://svelte.dev/" alt="Svelte"><img src="https://svelte.jp/favicon.png" alt="Svelte" title="Svelte" width="37.5px"></a>
+     <a href="https://sass-lang.com/" alt="SCSS"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SCSS" title="SASS, SCSS" width="43.5px"></a>
+     <a href="https://www.rust-lang.org/" alt="Rust"><img src="static/img/rust.png" alt="Rust" title="Rust" width="37.5px"></a>
 </div>
 
 ___
