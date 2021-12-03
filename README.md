@@ -12,7 +12,7 @@ ___
 * SkyCotL 🐦
 ___
 [![Rinrin's github stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413&show_icons=true&theme=highcontrast&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
 > Languages & Tools... 
