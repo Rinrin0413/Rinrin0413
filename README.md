@@ -2,18 +2,19 @@
 
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓹𝔂໒ 
 
-     Hi there, I'm a 15year-old Japanese student:D
+     Hi there, I'm a 15year-old Japanese🗾 student:D
      I'm doing various things( 'ω')b
 
 ---
 
 > Major activities
 
-* Programming
-* Digital painting 🎨
-* MCBE
-* Play the piano & Compose 🎹🎶
-* SkyCotL 🐦
+- Programming
+- SkyCotL 🐦
+- Play the piano & Compose 🎹🎶
+- MCBE
+- Digital painting 🎨
+- 优秀の人材
 
 ---
 
@@ -40,8 +41,8 @@
 
 > Socials
 
-* Twitter : [@Rinrin_2nd](https://twitter.com/Rinrin_2nd)
-* Discord : `Rinrin.py#5671 (724976600873041940)`
-* Qiita : [Rinrin0413](https://qiita.com/Rinrin0413)
+- Twitter: [@Rinrin_2nd](https://twitter.com/Rinrin_2nd)
+- Discord: `Rinrin.py#5671 (724976600873041940)`
+- Qiita: [Rinrin0413](https://qiita.com/Rinrin0413)
 
 ---
