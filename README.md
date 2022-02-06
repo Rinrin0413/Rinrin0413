@@ -42,7 +42,7 @@
 > Socials
 
 - Twitter: [@Rinrin_2nd](https://twitter.com/Rinrin_2nd)
-- Discord: `Rinrin.py#5671 (724976600873041940)`
+- Discord: `Rinrin.rs#5671 (724976600873041940)`
 - Qiita: [Rinrin0413](https://qiita.com/Rinrin0413)
 
 ---
