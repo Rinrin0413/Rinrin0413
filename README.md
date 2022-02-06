@@ -1,6 +1,6 @@
 <link href="./style.css" rel="stylesheet"></link>
 
-# ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓹𝔂໒ 
+# ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓻𝓼໒
 
      Hi there, I'm a 15year-old Japanese🗾 student:D
      I'm doing various things( 'ω')b
