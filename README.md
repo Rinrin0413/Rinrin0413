@@ -55,7 +55,7 @@
 
 ```mermaid
 pie title Rinrin's Memory Usage
-	"Rust lang": 74
+    "Rust lang": 74
     "怪レい日本语": 68
     "Money": 60
     "Soy milk": 49
