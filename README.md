@@ -12,7 +12,7 @@
 - Programming
 - SkyCotL 🐦
 - Play the piano & Compose 🎹🎶
-- MCBE
+- (MCBE)
 - Digital painting 🎨
 - 优秀の人材
 
@@ -32,6 +32,7 @@
     <a href="https://www.w3.org/TR/CSS/#css" alt="CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="CSS" title="CSS"></a>
     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262" alt="JS"><img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" alt="JS" title="JavaScript"></a>
     <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" alt="HLSL"><img src="./static/img/hlsl.png" alt="HLSL" title="HLSL" width="36px"></a>
+    <a href="https://git-scm.com/" alt="Git"><img src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor" alt="Git" title="Git" width="34.5px"></a>
     <a href="https://svelte.dev" alt="Svelte"><img src="https://svelte.jp/favicon.png" alt="Svelte" title="Svelte" width="37.5px"></a>
     <a href="https://sass-lang.com" alt="SCSS"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SCSS" title="SASS, SCSS" width="43.5px"></a>
     <a href="https://www.rust-lang.org" alt="Rust"><img src="./static/img/rust.png" alt="Rust" title="Rust" width="37.5px"></a>
@@ -39,7 +40,7 @@
 
 ---
 
-> Socials
+> Contact
 
 <div id="logos">
     &emsp;
