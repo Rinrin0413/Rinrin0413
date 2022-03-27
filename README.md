@@ -56,14 +56,14 @@
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Rust lang": 76
+    "Rust lang": 83
     "Classical musics": 73
-    "Money": 58
-    "Shaders": 36
-    "Soy milk": 26
-    "Sky:CotL": 24
-    "怪レい日本语": 23
-    "MCBE": 20
-    "Study": 7
-    "Others": 17
+    "Money": 52
+    "Sky:CotL": 48
+    "Soy milk": 23
+    "Shaders": 20
+    "怪レい日本语": 13
+    "MCBE": 13
+    "Study": 2
+    "Others": 20
 ```
