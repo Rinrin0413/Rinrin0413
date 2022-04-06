@@ -2,12 +2,12 @@
 
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓻𝓼໒
 
-    Hi there, I'm a 15year-old Japanese🗾 student:D
-    I'm doing various things( 'ω')b
+Hi there, I'm a 15year-old Japanese student:D  
+I'm not needed by anyone ( 'ω')
 
 ---
 
-> Major activities
+> Major activities:
 
 - Programming
 - SkyCotL 🐦
@@ -23,7 +23,7 @@
 
 ---
 
-> Languages & Tools... 
+> Languages & Tools:
 
 <div id="logos">
     &emsp;
@@ -35,18 +35,31 @@
     <a href="https://git-scm.com/" alt="Git"><img src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor" alt="Git" title="Git" width="34.5px"></a>
     <a href="https://svelte.dev" alt="Svelte"><img src="https://svelte.jp/favicon.png" alt="Svelte" title="Svelte" width="37.5px"></a>
     <a href="https://sass-lang.com" alt="SCSS"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SCSS" title="SASS, SCSS" width="43.5px"></a>
-    <a href="https://www.rust-lang.org" alt="Rust"><img src="./static/img/rust.png" alt="Rust" title="Rust" width="37.5px"></a>
+    <a href="https://www.rust-lang.org" alt="Rust"><img src="./static/img/rust.png" alt="Rust" title="Rust" width="36px"></a>
 </div>
 
 ---
 
-> Contact
+> Environment:
 
 <div id="logos">
     &emsp;
-    <a href="https://twitter.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./static/img/twitter.svg" alt="Twitter" title="Twitter: @Rinrin_2nd" width="40.1px"></a>
-    <a href="https://discord.gg/7QhMDfyPHR" alt="@Rinrin_2nd"><img src="./static/img/discord.png" alt="Discord" title="Discord: Rinrin.rs#5671" width="37.3px"></a>
-    <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./static/img/qiita.png" alt="Qiita" title="Qiita: Rinrin0413" width="40.2px"></a>
+    <a href="https://www.microsoft.com/en-us/windows/windows-11" alt="Windows11"><img src="https://static.wikia.nocookie.net/logopedia/images/4/4e/Windows_11_logo_apilado.svg" alt="Windows11" title="Windows11" width="54.0px"></a>
+    <a href="https://www.microsoft.com/ja-jp/software-download/windows10" alt="(Windows10)"><img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/Windows_10_logo_apilado_1.svg" alt="(Windows10)" title="(Windows10)" width="58.0px"></a>
+    <a href="https://archlinux.org" alt="ArchLinux(VM)"><img src="./static/img/archlinux.svg" alt="ArchLinux" title="ArchLinux(VM)" width="40.0px"></a>
+    <a href="https://www.apple.com/ios/ios-15" alt="iOS15"><img src="https://www.apple.com/v/ios/ios-15/c/images/overview/hero/icon_ios15_enhanced__d6q9yoglij0i_large.png" alt="iOS15" title="iOS15" width="40.0px"></a>
+    <a href="https://www.android.com/intl/en/android-10" alt="Android10"><img src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Android_Q_logo.svg" alt="Android10" title="Android10" width="38.0px"></a>
+</div>
+
+---
+
+> Contact me:
+
+<div id="logos">
+    &emsp;
+    <a href="https://twitter.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Twitter" title="Twitter: @Rinrin_2nd" width="36px"></a>
+    <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./static/img/discord.png" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>
+    <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./static/img/qiita.png" alt="Qiita" title="Qiita: Rinrin0413" width="40px"></a>
 </div>
 
 - Discord: `Rinrin.rs#5671 (724976600873041940)`
@@ -57,13 +70,13 @@
 ```mermaid
 pie title Rinrin's Memory Usage
     "Rust lang": 83
-    "Classical musics": 73
+    "Classical musics": 59
     "Money": 52
     "Sky:CotL": 48
-    "Soy milk": 23
-    "Shaders": 20
-    "怪レい日本语": 13
-    "MCBE": 13
-    "Study": 2
-    "Others": 20
+    "Soy milk": 30
+    "怪レい日本语": 27
+    "Study": 18
+    "Shaders": 11
+    "MCBE": 11
+    "Others": 33
 ```
