@@ -10,8 +10,12 @@ I'm not needed by anyone ( 'ω')
 > Major activities:
 
 - Programming
+    - Web.dev
+    - Graphics
+    - Rustlang
 - SkyCotL 🐦
 - Play the piano & Compose 🎹🎶
+    - Classical
 - (MCBE)
 - Digital painting 🎨
 - 优秀の人材
