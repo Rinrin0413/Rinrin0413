@@ -2,7 +2,7 @@
 
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓻𝓼໒
 
-Hi there, I'm a 15year-old Japanese student:D  
+Hi there, I'm a 15year-old S h.s. student:D  
 I'm not needed by anyone ( 'ω')
 
 ---
