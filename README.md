@@ -16,7 +16,7 @@ I'm not needed by anyone ( 'ω')
 - SkyCotL 🐦
 - Play the piano & Compose 🎹🎶
     - Classical
-- (MCBE)
+- ~~(MCBE)~~
 - Digital painting 🎨
 - 优秀の人材
 
