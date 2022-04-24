@@ -61,7 +61,7 @@ I'm not needed by anyone ( 'ω')
 
 <div id="logos">
     &emsp;
-    <a href="mailto:rinrin0413.valley@gmail.com" alt="rinrin0413.valley@gmail.com"><img src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/" alt="Gmail" title="Gmail: rinrin0413.valley@gmail.com" width="39px"></a>
+    <a href="mailto:rinrin0413.valley@gmail.com" alt="rinrin0413.valley@gmail.com"><img src="./static/img/gmail.svg" alt="Gmail" title="Gmail: rinrin0413.valley@gmail.com" width="35px"></a>
     <a href="https://twitter.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Twitter" title="Twitter: @Rinrin_2nd" width="36px"></a>
     <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./static/img/discord.png" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>
     <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./static/img/qiita.png" alt="Qiita" title="Qiita: Rinrin0413" width="40px"></a>
