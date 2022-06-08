@@ -44,7 +44,7 @@ I'm not needed by anyone ( 'ω')
 
 ---
 
-> Environment:
+> Environments:
 
 <div id="logos">
     &emsp;
