@@ -14,6 +14,7 @@ I'm not needed by anyone ( 'ω')
     - Graphics
     - Rustlang
 - SkyCotL 🐦
+- TETR.IO
 - Play the piano & Compose 🎹🎶
     - Classical
 - ~~(MCBE)~~
