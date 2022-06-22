@@ -49,7 +49,7 @@ I'm not needed by anyone ( 'ω')
 
 <div id="logos">
     &emsp;
-    <a href="https://www.opensuse.org/#Leap" alt="openSUSE"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" alt="openSUSE Leap" title="openSUSE Leap" width="50.0px"></a>
+    <a href="https://www.opensuse.org/#Leap" alt="openSUSE"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" alt="openSUSE Leap (Linux)" title="openSUSE Leap (Linux)" width="50.0px"></a>
     <a href="https://www.microsoft.com/en-us/windows/windows-11" alt="Windows11"><img src="https://static.wikia.nocookie.net/logopedia/images/4/4e/Windows_11_logo_apilado.svg" alt="Microsoft Windows11" title="Microsoft Windows11" width="56.0px"></a>
     <a href="https://www.apple.com/ios/ios-15" alt="iOS15"><img src="https://www.apple.com/v/ios/ios-15/c/images/overview/hero/icon_ios15_enhanced__d6q9yoglij0i_large.png" alt="iOS15" title="iOS15" width="40.0px"></a>
     <a href="https://www.android.com/intl/en/android-10" alt="Android10"><img src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Android_Q_logo.svg" alt="Android10" title="Android10" width="38.0px"></a>
