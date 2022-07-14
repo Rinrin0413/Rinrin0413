@@ -74,10 +74,10 @@ I'm not needed by anyone ( 'ω')
 ```mermaid
 pie title Rinrin's Memory Usage
     "TETR.IO": 131
-    "Rustlang": 76
+    "Rustlang": 79
     "Sky:CotL": 73
-    "Shaders": 61
-    "Web.dev": 39
+    "Web.dev": 60
+    "Shaders": 58
     "Soy milk": 48
     "Classical musics": 36
     "Money": 28
