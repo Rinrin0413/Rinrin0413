@@ -32,15 +32,15 @@ I'm not needed by anyone ( 'ω')
 
 <div id="logos">
     &emsp;
-    <a href="https://www.python.org"><img src="https://icongr.am/devicon/python-original.svg?size=33&color=currentColor" alt="Python" title="Python3"></a>
+    <a href="https://www.rust-lang.org"><img src="./static/img/rust_new.png" alt="Rust" title="Rust" width="38px"></a>
+    <a href="https://git-scm.com/"><img src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor" alt="Git" title="Git" width="34.5px"></a>
+    <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img src="./static/img/hlsl.png" alt="HLSL" title="HLSL" width="36px"></a>
+    <a href="https://svelte.dev"><img src="https://svelte.jp/favicon.png" alt="Svelte" title="Svelte" width="37.5px"></a>
     <a href="https://html.spec.whatwg.org"><img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="HTML" title="HTML5"></a>
     <a href="https://www.w3.org/TR/CSS/#css"><img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="CSS" title="CSS3"></a>
     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262" alt="JS"><img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" alt="JS" title="JavaScript"></a>
-    <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img src="./static/img/hlsl.png" alt="HLSL" title="HLSL" width="36px"></a>
-    <a href="https://git-scm.com/"><img src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor" alt="Git" title="Git" width="34.5px"></a>
-    <a href="https://svelte.dev"><img src="https://svelte.jp/favicon.png" alt="Svelte" title="Svelte" width="37.5px"></a>
     <a href="https://sass-lang.com"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" title="SASS, SCSS" width="43.5px"></a>
-    <a href="https://www.rust-lang.org"><img src="./static/img/rust.png" alt="Rust" title="Rust" width="36px"></a>
+    <a href="https://www.python.org"><img src="https://icongr.am/devicon/python-original.svg?size=33&color=currentColor" alt="Python" title="Python3"></a>
 </div>
 
 ---
