@@ -10,14 +10,15 @@ am a low spec fool ('ω' )
 > Major activities:
 
 - Programming
-    - Web.dev
+    - Rustlang 🦀
     - Graphics
-    - Rustlang
-- SkyCotL 🐦
+    - Web.dev
+    - Game dev
 - TETR.IO
-- Play the piano & Compose 🎹🎶
+- Sky:CotL 🐦
+- Playing & Composing 🎶
+    - Piano 🎹
     - Classical
-- ~~(MCBE)~~
 - Digital painting 🎨
 - 优秀の人材
 
@@ -73,14 +74,13 @@ am a low spec fool ('ω' )
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Study": 113
-    "TETR.IO": 100
-    "Rustlang": 98
-    "Soy milk": 60
-    "Web.dev": 53
-    "Sky:CotL": 47
+    "Study": 138
+    "TETR.IO": 97
+    "Rustlang": 93
+    "Soy milk": 67
+    "Web.dev": 60
     "Classical musics": 45
-    "Money": 30
-    "Shaders": 28
-    "Others": 17
+    "Money": 36
+    "Sky:CotL": 32
+    "Others": 13
 ```
