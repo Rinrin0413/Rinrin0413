@@ -13,7 +13,6 @@ am a low spec fool ('ω' )
     - Rustlang 🦀
     - Graphics
     - Web.dev
-    - Game dev
 - TETR.IO
 - Sky:CotL 🐦
 - Playing & Composing 🎶
