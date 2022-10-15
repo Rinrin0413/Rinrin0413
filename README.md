@@ -2,7 +2,7 @@
 
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓻𝓼໒
 
-Hi there, I'm a 16year-old S h.s. student <3  
+Hi there, I'm a 16year-old S h.s. student;  
 am a low spec fool ('ω' )
 
 ---
@@ -73,13 +73,13 @@ am a low spec fool ('ω' )
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Study": 138
-    "TETR.IO": 97
-    "Rustlang": 93
-    "Soy milk": 67
-    "Web.dev": 60
-    "Classical musics": 45
-    "Money": 36
-    "Sky:CotL": 32
-    "Others": 13
+    "Study": 164
+    "Rustlang": 96
+    "TETR.IO": 83
+    "Web.dev": 69
+    "Soy milk": 62
+    "Classical musics": 47
+    "Sky:CotL": 35
+    "Money": 28
+    "Others": 10
 ```
