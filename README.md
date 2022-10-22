@@ -73,13 +73,14 @@ am a low spec fool ('ω' )
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Study": 164
-    "Rustlang": 96
-    "TETR.IO": 83
-    "Web.dev": 69
-    "Soy milk": 62
-    "Classical musics": 47
-    "Sky:CotL": 35
-    "Money": 28
-    "Others": 10
+    "Study": 167
+    "TETR.IO": 93
+    "Rustlang": 90
+    "Shaders": 80
+    "Web.dev": 64
+    "Soy milk": 63
+    "Classical musics": 54
+    "Money": 32
+    "Sky:CotL": 21
+    "Others": 17
 ```
