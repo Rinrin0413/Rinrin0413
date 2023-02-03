@@ -31,6 +31,7 @@ am a low spec fool ('ω' )
 <div id="logos">
     &emsp;
     <a href="https://www.rust-lang.org"><img src="https://styles.redditmedia.com/t5_2s7lj/styles/image_widget_swcbp2ejzti11.png" alt="Rust" title="Rust" width="38px"></a>
+    &emsp;&emsp;&emsp;&emsp;
     <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" title="Git" width="36px"></a>
     <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img src="./assets/img/hlsl.png" alt="HLSL" title="HLSL" width="38px"></a>
     <a href="https://svelte.dev"><img src="https://svelte.dev/favicon.png" alt="Svelte" title="Svelte" width="38px"></a>
