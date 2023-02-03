@@ -46,9 +46,9 @@ am a low spec fool ('ω' )
 
 <div id="logos">
     &emsp;
-    <a href="https://www.opensuse.org/#Leap"><img src="https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" title="openSUSE Leap 15.4" width="52px"></a>
-    <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows11" title="Microsoft Windows 11" width="33px"></a>
-    <a href="https://www.apple.com/ios/ios-16"><img src="https://developer.apple.com/assets/elements/icons/ios-16-num/ios-16-num-96x96_2x.png" alt="iOS16" title="iOS 16" width="35px"></a>
+    <a href="https://www.opensuse.org/#Leap"><img src="https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" title="openSUSE Leap 15.4" width="52px"></a>&emsp;
+    <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows11" title="Microsoft Windows 11" width="33px"></a>&emsp;
+    <a href="https://www.apple.com/ios/ios-16"><img src="https://developer.apple.com/assets/elements/icons/ios-16-num/ios-16-num-96x96_2x.png" alt="iOS16" title="iOS 16" width="35px"></a>&emsp;
     <a href="https://www.android.com/intl/en/android-10"><img src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Android_Q_logo.svg" alt="Android10" title="Android 10" width="35px"></a>
 </div>
 
@@ -58,9 +58,9 @@ am a low spec fool ('ω' )
 
 <div id="logos">
     &emsp;
-    <a href="mailto:rinrin0413.valley@gmail.com" alt="rinrin0413.valley@gmail.com"><img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" title="Gmail: rinrin0413.valley@gmail.com" width="38px"></a>
-    <a href="https://twitter.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./assets/img/twitter-logo-01282021/Twitter logo/SVG/Logo blue.svg" alt="Twitter" title="Twitter: @Rinrin_2nd" width="36px"></a>
-    <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./assets/img/Discord Press Kit/Logos/3_Icon_Clyde/RGB/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>
+    <a href="mailto:rinrin0413.valley@gmail.com" alt="rinrin0413.valley@gmail.com"><img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" title="Gmail: rinrin0413.valley@gmail.com" width="38px"></a>&emsp;
+    <a href="https://twitter.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./assets/img/twitter-logo-01282021/Twitter logo/SVG/Logo blue.svg" alt="Twitter" title="Twitter: @Rinrin_2nd" width="36px"></a>&emsp;
+    <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./assets/img/Discord Press Kit/Logos/3_Icon_Clyde/RGB/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>&emsp;
     <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./assets/img/qiita-png/qiita-png/favicon.png" alt="Qiita" title="Qiita: Rinrin0413" width="36px"></a>
 </div>
 
