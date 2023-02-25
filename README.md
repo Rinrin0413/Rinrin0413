@@ -5,7 +5,7 @@ am a low spec fool ('ω' )
 
 ---
 
-> Major activities:
+## Major activities:
 
 - Programming
     - Rustlang 🦀
@@ -26,7 +26,7 @@ am a low spec fool ('ω' )
 
 ---
 
-> Languages & Tools:
+## Languages & Tools:
 
 <div id="logos">
     &emsp;
@@ -42,7 +42,7 @@ am a low spec fool ('ω' )
 
 ---
 
-> Environments:
+## Environments:
 
 <div id="logos">
     &emsp;
@@ -54,7 +54,7 @@ am a low spec fool ('ω' )
 
 ---
 
-> Contact me:
+## Contact me:
 
 <div id="logos">
     &emsp;
