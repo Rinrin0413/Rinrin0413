@@ -68,6 +68,11 @@ am a low spec fool ('ω' )
 
 ---
 
+## My home page:
+[rinrin.pages.dev](https://rinrin.pages.dev)
+
+---
+
 ```mermaid
 pie title Rinrin's Memory Usage
     "Web.dev": 138
