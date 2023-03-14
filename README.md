@@ -73,10 +73,11 @@ am a low spec fool ('ω' )
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Web.dev": 138
-    "TETR.IO": 98
-    "Shaders": 84
-    "Soy milk": 60
-    "Rust": 55
+    "Shaders": 108
+    "TETR.IO": 103
+    "Web.dev": 93
+    "Compose": 73
+    "Soy milk": 65
+    "Rust": 53
     "Others": 30
 ```
