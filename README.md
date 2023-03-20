@@ -19,10 +19,10 @@ am a low spec fool ('ω' )
 
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413&count_private=true&theme=moltack&hide_border=true&border_radius=6px&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Rinrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413&count_private=true&show_icons=true&theme=moltack&hide_border=true&border_radius=6px)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413&count_private=true&theme=dark&hide_border=true&border_radius=4px&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Rinrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=4px)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rinrin&theme=moltack&hide_border=true&border_radius=2px&layout=compact)](https://wakatime.com/@Rinrin)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rinrin&theme=dark&hide_border=true&border_radius=2px&layout=compact)](https://wakatime.com/@Rinrin)
 
 ---
 
