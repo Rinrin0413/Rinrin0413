@@ -19,8 +19,10 @@ am a low spec fool ('ω' )
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413&show_icons=true&theme=gruvbox&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Rinrin's github stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinrin0413&count_private=true&theme=moltack&hide_border=true&border_radius=12px&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Rinrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinrin0413&count_private=true&show_icons=true&theme=moltack&hide_border=true&border_radius=16px)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rinrin&theme=moltack&hide_border=true&border_radius=2px&layout=compact)](https://wakatime.com/@Rinrin)
 
 ---
 
