@@ -10,11 +10,9 @@ am a low spec fool ('ω' )
     - Graphics
     - Web.dev
 - TETR.IO
-- Sky:CotL 🐦
 - Playing & Composing 🎶
     - Piano 🎹
     - Classical
-- Digital painting 🎨
 - 优秀の人材
 
 ---
