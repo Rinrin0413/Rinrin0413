@@ -65,12 +65,12 @@ am a low spec fool ('ω' )
 
 - Discord: `Rinrin.rs#5671 (724976600873041940)`
 
+[more](https://rinrin.pages.dev/social)
+
 ---
 
 ### My home page:
 [rinrin.pages.dev](https://rinrin.pages.dev)
-
-[more](https://rinrin.pages.dev/social)
 
 ---
 
