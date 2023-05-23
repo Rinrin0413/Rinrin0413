@@ -70,6 +70,8 @@ am a low spec fool ('ω' )
 ### My home page:
 [rinrin.pages.dev](https://rinrin.pages.dev)
 
+[more](https://rinrin.pages.dev/social)
+
 ---
 
 ```mermaid
