@@ -76,8 +76,8 @@ am a low spec fool ('ω' )
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Studying": 117
-    "Minecraft": 105
+    "Study": 117
+    "Minecraft JE": 105
     "TETR.IO": 103
     "Web.dev": 97
     "Shaders": 90
