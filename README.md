@@ -63,7 +63,7 @@ am a low spec fool ('ω' )
     <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./assets/img/qiita-png/qiita-png/favicon.png" alt="Qiita" title="Qiita: Rinrin0413" width="36px"></a>
 </div>
 
-- Discord: `Rinrin.rs#5671 (724976600873041940)`
+- Discord: [`rinrin0413`](https://discord.com/users/724976600873041940)
 
 [more](https://rinrin.pages.dev/social)
 
