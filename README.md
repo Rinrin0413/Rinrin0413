@@ -35,7 +35,7 @@ am a low spec fool ('ω' )
     <a href="https://svelte.dev"><img src="https://svelte.dev/favicon.png" alt="Svelte" title="Svelte" width="38px"></a>&emsp;
     <a href="https://www.w3.org/TR/html5"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="HTML" title="HTML5" width="33px"></a>&emsp;
     <a href="https://www.w3.org/TR/CSS"><img src="https://icongr.am/devicon/css3-original.svg" alt="CSS" title="CSS3" width="34px"></a>&emsp;
-    <a href="https://sass-lang.com"><img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="SASS" title="SASS, SCSS" width="43px"></a>&emsp;
+    <a href="https://sass-lang.com"><img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" title="SASS, SCSS" width="43px"></a>&emsp;
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262" alt="JS"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="34"></a>
 </div>
 
