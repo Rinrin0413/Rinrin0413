@@ -30,8 +30,8 @@ am a low spec fool ('ω' )
     &emsp;
     <a href="https://rust-lang.org"><img src="https://styles.redditmedia.com/t5_2s7lj/styles/image_widget_swcbp2ejzti11.png" alt="Rust" title="Rust" width="38px"></a>&emsp;
     <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" title="Git" width="36px"></a>&emsp;
-    <a href="https://opengl.org/"><img src="./assets/img/OpenGL_LogoBug_48px_Nov17.png" alt="openGL logo" title="GLSL" width="38px"></a>&emsp;
-    <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img src="./assets/img/hlsl.png" alt="HLSL" title="HLSL" width="38px"></a>&emsp;
+    <a href="https://opengl.org/"><img src="./assets/images/OpenGL_LogoBug_48px_Nov17.png" alt="openGL logo" title="GLSL" width="38px"></a>&emsp;
+    <a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><img src="./assets/images/hlsl.png" alt="HLSL" title="HLSL" width="38px"></a>&emsp;
     <a href="https://svelte.dev"><img src="https://svelte.dev/favicon.png" alt="Svelte" title="Svelte" width="38px"></a>&emsp;
     <a href="https://www.w3.org/TR/html5"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="HTML" title="HTML5" width="33px"></a>&emsp;
     <a href="https://www.w3.org/TR/CSS"><img src="https://icongr.am/devicon/css3-original.svg" alt="CSS" title="CSS3" width="34px"></a>&emsp;
@@ -58,9 +58,9 @@ am a low spec fool ('ω' )
 <div id="logos">
     &emsp;
     <a href="mailto:rinrin0413.valley@gmail.com" alt="rinrin0413.valley@gmail.com"><img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" title="Gmail: rinrin0413.valley@gmail.com" width="38px"></a>&emsp;
-    <a href="https://x.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./assets/img/x-logo/logo.svg" alt="X" title="X: @Rinrin_2nd" width="30px"></a>&emsp;
-    <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./assets/img/Discord Press Kit/Logos/3_Icon_Clyde/RGB/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>&emsp;
-    <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./assets/img/qiita-png/qiita-png/favicon.png" alt="Qiita" title="Qiita: Rinrin0413" width="36px"></a>
+    <a href="https://x.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./assets/images/x-logo/logo.svg" alt="X" title="X: @Rinrin_2nd" width="30px"></a>&emsp;
+    <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./assets/images/Discord Press Kit/Logos/3_Icon_Clyde/RGB/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>&emsp;
+    <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./assets/images/qiita-png/qiita-png/favicon.png" alt="Qiita" title="Qiita: Rinrin0413" width="36px"></a>
 </div>
 
 - Discord: [`rinrin0413`](https://discord.com/users/724976600873041940)
