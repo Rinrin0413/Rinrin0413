@@ -58,7 +58,7 @@ am a low spec fool ('ω' )
 <div id="logos">
     &emsp;
     <a href="mailto:rinrin0413.valley@gmail.com" alt="rinrin0413.valley@gmail.com"><img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" title="Gmail: rinrin0413.valley@gmail.com" width="38px"></a>&emsp;
-    <a href="https://twitter.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./assets/img/twitter-logo-01282021/Twitter logo/SVG/Logo blue.svg" alt="Twitter" title="Twitter: @Rinrin_2nd" width="36px"></a>&emsp;
+    <a href="https://x.com/Rinrin_2nd" alt="@Rinrin_2nd"><img src="./assets/img/x-logo/logo.svg" alt="X" title="X: @Rinrin_2nd" width="30px"></a>&emsp;
     <a href="https://discord.gg/7QhMDfyPHR" alt="Rinrin.rs#5671"><img src="./assets/img/Discord Press Kit/Logos/3_Icon_Clyde/RGB/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord: Rinrin.rs#5671" width="38px"></a>&emsp;
     <a href="https://qiita.com/Rinrin0413" alt="Rinrin0413"><img src="./assets/img/qiita-png/qiita-png/favicon.png" alt="Qiita" title="Qiita: Rinrin0413" width="36px"></a>
 </div>
