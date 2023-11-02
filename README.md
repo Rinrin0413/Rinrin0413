@@ -45,7 +45,7 @@ am a low spec fool ('ω' )
 
 <div id="logos">
     &emsp;
-    <a href="https://opensuse.org/#Leap"><img src="assets/images/raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" title="openSUSE Leap 15.4" width="52px"></a>&emsp;
+    <a href="https://get.opensuse.org/leap/15.5"><img src="assets/images/raw.githubusercontent.com/openSUSE/artwork/master/logos/official/logo-color.svg" alt="openSUSE" title="openSUSE Leap 15.5" width="52px"></a>&emsp;
     <a href="https://microsoft.com/en-us/windows/windows-11"><img src="assets/images/raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows11" title="Microsoft Windows 11" width="33px"></a>&emsp;
     <a href="https://apple.com/ios/ios-17"><img src="assets/images/developer.apple.com/assets/elements/icons/ios-17-num/ios-17-num-96x96_2x.png" alt="iOS 17" title="iOS 17" width="35px"></a>&emsp;
     <a href="https://android.com/intl/en/android-10"><img src="assets/images/static.wikia.nocookie.net/logopedia/images/f/f8/Android_Q_logo.svg" alt="Android10" title="Android 10" width="35px"></a>
