@@ -9,10 +9,10 @@ am a low spec fool ('ω' )
     - Rustlang 🦀
     - Graphics
     - Web dev.
-- TETR.IO
 - Playing & Composing 🎶
     - Piano 🎹
     - Classical
+- TETR.IO
 - 优秀の人材
 
 ---
