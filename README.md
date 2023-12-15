@@ -8,7 +8,7 @@ am a low spec fool ('ω' )
 - Programming
     - Rustlang 🦀
     - Graphics
-    - Web.dev
+    - Web dev.
 - TETR.IO
 - Playing & Composing 🎶
     - Piano 🎹
