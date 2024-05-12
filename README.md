@@ -12,7 +12,6 @@ am a low spec fool ('ω' )
 - Playing & Composing 🎶
     - Piano 🎹
     - Classical
-- TETR.IO
 - 优秀の人材
 
 ---
