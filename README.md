@@ -12,6 +12,7 @@ am a low spec fool ('ω' )
 - Playing & Composing 🎶
     - Piano 🎹
     - Classical
+- Sky:CotL
 - 优秀の人材
 
 ---
