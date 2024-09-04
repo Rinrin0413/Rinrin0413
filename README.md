@@ -75,16 +75,16 @@ am a low spec fool ('ω' )
 
 ```mermaid
 pie title Rinrin's Memory Usage
-    "Precure": 591
-    "Sky:CotL": 521
-    "Web.dev": 497
-    "Soy milk": 436
-    "Compose": 433
-    "TETR.IO": 355
-    "Study": 327
+    "Precure": 586
+    "Web.dev": 513
+    "Sky:CotL": 508
+    "Soy milk": 444
+    "Compose": 434
+    "TETR.IO": 340
+    "Study": 312
     "Rust": 297
-    "Piano": 210
-    "Shaders": 45
-    "Minecraft": 43
-    "Others": 493
+    "Piano": 216
+    "Shaders": 44
+    "Minecraft": 41
+    "Others": 488
 ```
