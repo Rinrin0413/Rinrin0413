@@ -11,8 +11,9 @@ am a low spec fool ('ω' )
     - Web dev.
 - Playing & Composing 🎶
     - Piano 🎹
-    - Classical
+    - Classical music
 - Sky:CotL
+- Painting 🎨
 - 优秀の人材
 
 ---
