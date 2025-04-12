@@ -1,6 +1,6 @@
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓻𝓼໒
 
-Hi there, I'm a 18year-old student;  
+Hi there, I'm a 19year-old student;  
 am a low spec fool ('ω' )
 
 ### Major activities:
