@@ -3,7 +3,7 @@
 Hi there, I'm a 19year-old student;  
 am a low spec fool ('ω' )
 
-### Major activities:
+### Major Activities
 
 - Programming
     - Rustlang 🦀
@@ -25,7 +25,7 @@ am a low spec fool ('ω' )
 
 ---
 
-### Languages & Tools:
+### Languages & Tools
 
 <div id="logos">
     &emsp;
@@ -42,7 +42,7 @@ am a low spec fool ('ω' )
 
 ---
 
-### Environments:
+### Environments
 
 <div id="logos">
     &emsp;
@@ -54,7 +54,7 @@ am a low spec fool ('ω' )
 
 ---
 
-### Contact me:
+### Contact Me
 
 <div id="logos">
     &emsp;
@@ -69,7 +69,7 @@ am a low spec fool ('ω' )
 
 ---
 
-### My home page:
+### My Website
 [rinrin.pages.dev](https://rinrin.pages.dev)
 
 ---
