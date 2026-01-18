@@ -70,21 +70,3 @@ am a low spec fool ('ω' )
 
 ### My Website
 [rinrin.pages.dev](https://rinrin.pages.dev)
-
----
-
-```mermaid
-pie title Rinrin's Memory Usage
-    "Precure": 500
-    "Painting": 425
-    "Study": 350
-    "LLM": 300
-    "Web.dev": 275
-    "Rust": 250
-    "Shaders": 200
-    "Piano": 170
-    "Compose": 120
-    "Minecraft": 60
-    "TETR.IO": 50
-    "Others": 300
-```
