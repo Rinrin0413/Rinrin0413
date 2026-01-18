@@ -1,4 +1,1 @@
-merge-dev.sh
-_typos.toml
-/.vscode
-update-rmu.sh
+.vscode/settings.json
