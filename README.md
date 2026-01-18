@@ -33,7 +33,7 @@ Hi there, I am a 19-year-old student from Japan.
     --><img src="./assets/images/Git-Icon-1788C.svg" alt="Git" title="Git" width="36px"></a>&emsp;<a href="https://opengl.org"><!--
         OpenGL Shading Language logo (Unofficial):
         Jim McKeeth, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
-    --><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GLSL_Logo_%28Unofficial%29.svg" alt="GLSL" title="GLSL" width="48px"></a>&emsp;<a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><!--
+    --><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GLSL_Logo_%28Unofficial%29.svg" alt="GLSL" title="GLSL" width="56px"></a>&emsp;<a href="https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"><!--
         HL:
         © 2022 Rinrin
     --><img src="./assets/images/HL.png" alt="HLSL" title="HLSL" width="38px"></a>&emsp;<a href="https://www.w3.org/TR/html5"><!--
@@ -65,7 +65,7 @@ Hi there, I am a 19-year-old student from Japan.
     --><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" title="Windows 11" width="32px"></a>&emsp;<a href="https://apple.com/ios/ios"><!--
         Wordmark of iOS:
         Original:  Apple Inc.Vectorization:  Totie, via Wikimedia Commons
-    --><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/IOS_wordmark_%282017%29.svg" alt="iOS" title="iOS" width="50px"></a>&emsp;<a href="https://android.com/intl/en/android-10"><!--
+    --><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/IOS_wordmark_%282017%29.svg" alt="iOS" title="iOS" width="55px"></a>&emsp;<a href="https://android.com/intl/en/android-10"><!--
         Vector tracing of Android 10 logo:
         Google, via Wikimedia Commons
     --><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Android_Q_Logo.svg" alt="Android 10" title="Android 10" width="34px"></a>
@@ -75,10 +75,11 @@ Hi there, I am a 19-year-old student from Japan.
 
 <div id="logos">
     &emsp;
-    <a href="mailto:rinrin0413.rs@gmail.com"><img src="./assets/images/Gmail.png" alt="Email" title="Email (rinrin0413.rs@gmail.com)" width="38px"></a>&emsp;
-    <a href="https://x.com/Rinrin_2nd"><img src="./assets/images/X_logo.svg" alt="Twitter" title="Twitter (@Rinrin_2nd)" width="30px"></a>&emsp;
-    <a href="https://discord.com/users/724976600873041940"><img src="./assets/images/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord '(rinrin0413)" width="38px"></a>&emsp;
+    <a href="https://discord.com/users/724976600873041940"><img src="./assets/images/icon_clyde_blurple_RGB.svg" alt="Discord" title="Discord (rinrin0413)" width="38px"></a>&emsp;
+    <a href="https://x.com/Rinrin_2nd"><img src="./assets/images/X_logo.svg" alt="Twitter" title="Twitter (@Rinrin_2nd)" width="30px"></a>
 </div>
+
+- Email: [rinrin0413.rs@gmail.com](mailto:rinrin0413.rs@gmail.com)
 
 [and more](https://rinrin.pages.dev/social)
 
