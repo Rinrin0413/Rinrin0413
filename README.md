@@ -1,6 +1,6 @@
 # ঌ𝓡𝓲𝓷𝓻𝓲𝓷.𝓻𝓼໒
 
-Hi there, I am a 19-year-old student from Japan.
+Hi there, I am a 20-year-old student from Japan.
 
 ## Major Activities
 
